@@ -12,5 +12,6 @@ cd /var/kiwix/data
 **run the script:**
 
 chmod +x install_kiwix.sh
+
 ./install_kiwix.sh
 
