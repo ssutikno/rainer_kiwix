@@ -6,7 +6,7 @@
 mkdir /var/kiwix/data
 
 **download the .zim files into this folder**
-You can download the .zim files from library.kiwix.org
+You can download the .zim files from https://library.kiwix.org
 
 cd /var/kiwix/data
 
